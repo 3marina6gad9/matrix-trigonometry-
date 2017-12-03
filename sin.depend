@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511977060 source:c:\users\dell\desktop\sin\main.cpp
+	<iostream>
+	<math.h>
+
